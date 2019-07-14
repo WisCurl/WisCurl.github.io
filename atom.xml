@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>This is WisCurl</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wiscurl.github.io/"/>
+  <updated>2019-07-14T17:26:28.355Z</updated>
+  <id>https://wiscurl.github.io/</id>
+  
+  <author>
+    <name>WisCurl</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《狮子王》</title>
+    <link href="https://wiscurl.github.io/2019/07/13/the-lion-king/"/>
+    <id>https://wiscurl.github.io/2019/07/13/the-lion-king/</id>
+    <published>2019-07-12T16:30:11.105Z</published>
+    <updated>2019-07-14T17:26:28.355Z</updated>
+    
+    <summary type="html">
+    
+      &lt;style type=&quot;text/css&quot;&gt;
+p { text-indent: 2em } 
+&lt;/style&gt;
+&lt;p&gt;看个《狮子王》，却感觉看到了很多影子。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="https://wiscurl.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="电影" scheme="https://wiscurl.github.io/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为什么想写一个博客</title>
+    <link href="https://wiscurl.github.io/2019/07/12/why-i-want-to-hold-a-blog/"/>
+    <id>https://wiscurl.github.io/2019/07/12/why-i-want-to-hold-a-blog/</id>
+    <published>2019-07-11T16:05:49.959Z</published>
+    <updated>2019-07-14T17:24:01.874Z</updated>
+    
+    <summary type="html">
+    
+      &lt;style type=&quot;text/css&quot;&gt;
+p { text-indent: 2em } 
+&lt;/style&gt;
+&lt;p&gt;其实没有什么原因，想写就写了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="https://wiscurl.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
