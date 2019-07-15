@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>This is WisCurl</title>
+  <title>This Is WisCurL</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wiscurl.github.io/"/>
-  <updated>2019-07-15T14:33:06.147Z</updated>
+  <updated>2019-07-15T17:30:23.057Z</updated>
   <id>https://wiscurl.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://wiscurl.github.io/2019/07/13/the-lion-king/"/>
     <id>https://wiscurl.github.io/2019/07/13/the-lion-king/</id>
     <published>2019-07-12T16:30:11.105Z</published>
-    <updated>2019-07-15T14:33:06.147Z</updated>
+    <updated>2019-07-15T17:30:23.057Z</updated>
     
     <summary type="html">
     
@@ -45,7 +45,7 @@ p { text-indent: 2em }
     <link href="https://wiscurl.github.io/2019/07/12/why-i-want-to-hold-a-blog/"/>
     <id>https://wiscurl.github.io/2019/07/12/why-i-want-to-hold-a-blog/</id>
     <published>2019-07-11T16:05:49.959Z</published>
-    <updated>2019-07-15T15:20:11.373Z</updated>
+    <updated>2019-07-15T18:04:48.762Z</updated>
     
     <summary type="html">
     
