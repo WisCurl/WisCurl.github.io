@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://wiscurl.github.io/"/>
-  <updated>2019-07-30T11:14:52.333Z</updated>
+  <updated>2019-09-22T09:32:35.016Z</updated>
   <id>https://wiscurl.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>《九州缥缈录》摘录</title>
-    <link href="https://wiscurl.github.io/2019/07/30/the-excerpts-from-jiuzhoupiaomiaolu/"/>
-    <id>https://wiscurl.github.io/2019/07/30/the-excerpts-from-jiuzhoupiaomiaolu/</id>
-    <published>2019-07-30T02:50:36.288Z</published>
-    <updated>2019-07-30T11:14:52.333Z</updated>
+    <title>《大圣传》摘录</title>
+    <link href="https://wiscurl.github.io/2019/09/22/the-excerpts-from-dashengzhuan/"/>
+    <id>https://wiscurl.github.io/2019/09/22/the-excerpts-from-dashengzhuan/</id>
+    <published>2019-09-22T09:13:00.000Z</published>
+    <updated>2019-09-22T09:32:35.016Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,56 @@
 p { text-indent: 2em } 
 &lt;/style&gt;
 
-&lt;p&gt;重度剧透，介意勿入&lt;/p&gt;
+&lt;p&gt;如果说《问镜》不是爽利第一，那么这就是爽利第一了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="书" scheme="https://wiscurl.github.io/tags/%E4%B9%A6/"/>
+    
+      <category term="摘记" scheme="https://wiscurl.github.io/tags/%E6%91%98%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《问镜》摘录</title>
+    <link href="https://wiscurl.github.io/2019/09/22/the-excerpts-from-wenjing/"/>
+    <id>https://wiscurl.github.io/2019/09/22/the-excerpts-from-wenjing/</id>
+    <published>2019-09-22T09:10:00.000Z</published>
+    <updated>2019-09-22T09:23:35.774Z</updated>
+    
+    <summary type="html">
+    
+      &lt;style type=&quot;text/css&quot;&gt;
+p { text-indent: 2em } 
+&lt;/style&gt;
+
+&lt;p&gt;碧霄放旷，举世营营。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="书" scheme="https://wiscurl.github.io/tags/%E4%B9%A6/"/>
+    
+      <category term="摘记" scheme="https://wiscurl.github.io/tags/%E6%91%98%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《九州缥缈录》摘录</title>
+    <link href="https://wiscurl.github.io/2019/07/30/the-excerpts-from-jiuzhoupiaomiaolu/"/>
+    <id>https://wiscurl.github.io/2019/07/30/the-excerpts-from-jiuzhoupiaomiaolu/</id>
+    <published>2019-07-30T02:50:36.288Z</published>
+    <updated>2019-09-14T09:03:44.103Z</updated>
+    
+    <summary type="html">
+    
+      &lt;style type=&quot;text/css&quot;&gt;
+p { text-indent: 2em } 
+&lt;/style&gt;
+
+&lt;p&gt;霜雪吹满头，也算是白首。&lt;/p&gt;
+&lt;p&gt;（重度剧透，介意勿入）&lt;/p&gt;
     
     </summary>
     
